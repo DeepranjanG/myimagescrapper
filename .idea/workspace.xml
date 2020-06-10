@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ff01530-7f9b-40dc-8b8c-4006eb5bacb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzIExIsgOVbDIrJHm1ZOh6scbi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mywebscrapper" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="ImageScrapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myimagescrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/imagescrapper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imagescrapper/ImageScrapper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myimagescrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.ImageScrapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ff01530-7f9b-40dc-8b8c-4006eb5bacb5" name="Default Changelist" comment="" />
+      <created>1589628387626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589628387626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589711170092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589711170092" />
+    <state x="447" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589633995099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589633995099" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1591370891738">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1591370891738" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1589712126633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589712126633" />
+    <state width="1344" height="530" key="GridCell.Tab.0.bottom" timestamp="1591772147700">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="530" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591772147700" />
+    <state width="1344" height="530" key="GridCell.Tab.0.center" timestamp="1591772147700">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="530" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591772147700" />
+    <state width="1344" height="530" key="GridCell.Tab.0.left" timestamp="1591772147699">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590568122806" />
+    <state width="1344" height="530" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591772147699" />
+    <state width="1344" height="530" key="GridCell.Tab.0.right" timestamp="1591772147700">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="530" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591772147700" />
+    <state width="1344" height="184" key="GridCell.Tab.1.bottom" timestamp="1591443930179">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="184" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591443930179" />
+    <state width="1344" height="184" key="GridCell.Tab.1.center" timestamp="1591443930178">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="184" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591443930178" />
+    <state width="1344" height="184" key="GridCell.Tab.1.left" timestamp="1591443930178">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="184" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591443930178" />
+    <state width="1344" height="184" key="GridCell.Tab.1.right" timestamp="1591443930178">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
+    <state width="1344" height="184" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591443930178" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1589711302364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589711302364" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1591293815883">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1591293815883" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1589654036927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589654036927" />
+    <state x="0" y="0" width="1366" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589711620638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1366" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1589711620638" />
+    <state x="456" y="236" width="696" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589655279356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="236" width="696" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1589655279356" />
+  </component>
+</project>
