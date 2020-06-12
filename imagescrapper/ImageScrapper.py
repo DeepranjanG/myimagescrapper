@@ -33,7 +33,8 @@ class ImageScrapper:
     def createURL(keyWord):
         keyWord = keyWord.split()
         keyWord = '+'.join(keyWord)
-        url = "https://www.freepik.com/search?dates=any&format=search&page=1&query="+keyWord+"&selection=1&sort=popular&type=photo"
+        # url = "https://www.freepik.com/search?dates=any&format=search&page=1&query="+keyWord+"&selection=1&sort=popular&type=photo"
+        url = "https://www.freepik.com/search?dates=any&format=search&page=1&query="+keyWord+"&sort=popular&type=photo"
         return url
         # print (url)
         # add the directory for your image here
@@ -70,7 +71,7 @@ class ImageScrapper:
         image_counter = 0
         for i, (img) in enumerate(imageUrlList):
             try:
-                if (count > 5):
+                if (count > 11):
                     break
                 else:
                     count = count + 1

@@ -3,14 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Scrapped Images</title>
+    <link rel="stylesheet" href="/static/main.css" type="text/css">
 </head>
 <body>
 <div class="table-users">
    <div class="header">Some of the scrapped images:</div>
     <table>
 {% for user_image in user_images %}
-        <td width="400">
-            <img width="300" height="300" src="{{ url_for('static', filename=user_image) }}" alt="User Image"></td>
+        <tr>
+            <img width="600px" height="500" src="{{ url_for('static', filename=user_image) }}" alt="User Image"><br><br>
+        </tr>
 {% endfor %}
     </table>
 </div>

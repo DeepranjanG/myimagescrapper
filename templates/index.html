@@ -1,36 +1,22 @@
-<link rel="stylesheet" href="/static/style.css" type="text/css">
-{% block body %}
-
-<script>
-<!-- alert("Welcome!") -->
-function alertText(){
- alert("Please wait while we downloading the images for you")
-}
-</script>
-<div class="btn-group">
-  <!-- <button id = "button1" class="btn btn-primary" onclick="window.location.href = 'http://127.0.0.1:8000/searchData';">Show Review Data</button> -->
-<!-- <button id = "button2" class="btn btn-primary btn-block" onclick="location.href = 'http://127.0.0.1:8000/searchResult.html';">Search Images In DB</button> -->
-
-</div>
-
-<form action="/searchImages" method="POST">
-	<div class="user-input">
-		<div class="login-screen">
-			<div class="app-title">
-				<h1>Download Images From Web</h1>
-			</div>
-
-			<div class="login-form">
-				<div class="control-group">
-				<input style="width:800px" type="text" class="login-field"  required="" placeholder="Enter keyword" name="keyword"></br>
-				<input type="submit" value="Submit" oncilck="alertText()" class="btn btn-primary btn-large btn-block" >
-			    <br>
-				</div>
-
-			</div>
-
-		</div>
-	</div>
-</form>
-
-{% endblock %}
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Free Pics Image Scrapper</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <form action="/searchImages" method="POST" name="sign up for beta form">
+      <div class="header">
+         <p>Free Pics Image Scrapper</p>
+      </div>
+      <div class="description">
+        <p>Image Scrapper is ready. If you're interested in testing it out, then type below to get exclusive images.</p>
+      </div>
+      <div class="input">
+        <input type="text" class="button" id="keyword" name="keyword" placeholder="Type keyword here ..." required>
+        <input type="submit" class="button" id="submit" value="SEARCH">
+      </div>
+    </form>
+  </body>
+</html>

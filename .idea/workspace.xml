@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff01530-7f9b-40dc-8b8c-4006eb5bacb5" name="Default Changelist" comment="" />
+    <list default="true" id="7ff01530-7f9b-40dc-8b8c-4006eb5bacb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagescrapper/ImageScrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/imagescrapper/ImageScrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trees0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trees10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trees2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trees4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trees6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trees8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/showImage.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/showImage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bzIExIsgOVbDIrJHm1ZOh6scbi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,9 +88,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myimagescrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.ImageScrapper" />
       </list>
     </recent_temporary>
@@ -107,26 +147,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589712126633" />
-    <state width="1344" height="530" key="GridCell.Tab.0.bottom" timestamp="1591772147700">
+    <state x="541" y="264" key="Github.ShareDialog" timestamp="1591772226898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="541" y="264" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1591772226898" />
+    <state x="520" y="72" key="Github.UntrackedFilesDialog" timestamp="1591772235666">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="520" y="72" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1591772235666" />
+    <state width="1344" height="202" key="GridCell.Tab.0.bottom" timestamp="1591983980030">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1344" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
-    <state width="1344" height="530" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591772147700" />
-    <state width="1344" height="530" key="GridCell.Tab.0.center" timestamp="1591772147700">
+    <state width="1344" height="202" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591983980030" />
+    <state width="1344" height="202" key="GridCell.Tab.0.center" timestamp="1591983980030">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1344" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
-    <state width="1344" height="530" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591772147700" />
-    <state width="1344" height="530" key="GridCell.Tab.0.left" timestamp="1591772147699">
+    <state width="1344" height="202" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591983980030" />
+    <state width="1344" height="202" key="GridCell.Tab.0.left" timestamp="1591983980029">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1344" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590568122806" />
-    <state width="1344" height="530" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591772147699" />
-    <state width="1344" height="530" key="GridCell.Tab.0.right" timestamp="1591772147700">
+    <state width="1344" height="202" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591983980029" />
+    <state width="1344" height="202" key="GridCell.Tab.0.right" timestamp="1591983980030">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1344" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590568122807" />
-    <state width="1344" height="530" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591772147700" />
+    <state width="1344" height="202" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591983980030" />
     <state width="1344" height="184" key="GridCell.Tab.1.bottom" timestamp="1591443930179">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
