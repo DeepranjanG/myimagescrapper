@@ -62,31 +62,7 @@ def searchImages():
 
     return show_images() # redirect the control to the show images method
 
-@app.route('/api/showImages', methods=['GET','POST']) # route to return the list of file locations for API calls
-@cross_origin()
-def get_image_url():
-    if request.method == 'POST':
-        print("entered post")
-        keyWord =  request.json['keyword'] # assigning the value of the input keyword to the variable keyword
 
-    else:
-        print("Did not enter  post")
-    print('printing = ' + keyWord)
-    # splitting and combining the keyword for a string containing multiple words
-    image_name = keyWord.split()
-    image_name = '+'.join(image_name)
-    # adding the header metadata
-    header = {
-        'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36"}
-
-    service = ImageScrapperService # instantiating the object of class ImageScrapperService
-    url_enum = service.get_image_urls(keyWord, header) # getting the URL enumeration
-    url_list=[] # initializing and empty url list
-    for i, (img, Type) in enumerate(url_enum[0:5]):
-        # creating key value pairs of image URLs to be sent as json
-        dict={'image_url':img}
-        url_list.append(dict)
-    return jsonify(url_list) # send the url list in JSON format
 
 
 port = int(os.getenv("PORT"))
